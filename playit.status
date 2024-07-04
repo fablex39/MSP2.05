@@ -1,310 +1,418 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720058793821 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720058972214 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058796862 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720058975313 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058799952 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720058978415 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058803008 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720058981495 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058806067 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720058984541 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058809124 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720058987588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058812196 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720058990632 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058815228 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720058993672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058818282 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720058996724 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058821323 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720058999789 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058824390 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059003128 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058827458 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059006240 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058830518 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059009298 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058833560 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059012368 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058836699 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059015464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058839809 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059018518 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058842847 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059021572 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058845890 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059024632 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058848962 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059027671 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058852011 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059030724 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058855057 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059033816 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058858093 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059036886 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058861171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059039973 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058864252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059043018 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058867296 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059046118 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058870334 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059049192 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058873382 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059052259 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058876419 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059055336 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058879454 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059058411 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058882590 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059061472 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058885666 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059064523 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058888747 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059067585 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058891800 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059070653 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058894849 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059073747 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058897906 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059076800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058900958 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059079882 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058903993 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059082939 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058907058 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059085976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058910120 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059089037 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058913187 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059092111 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058916271 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059095163 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058919339 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059098199 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058922448 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059101276 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058925512 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059104327 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058928582 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059107386 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058931616 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059110470 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058934716 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059113512 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058937779 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059116593 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058940822 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059119684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058943903 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059122817 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058946969 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059125889 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720058950083 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720059128965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059132007 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059135043 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059138122 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059141210 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059144284 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059147331 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059150379 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059153431 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059156503 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059159611 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059162684 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059165733 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059168794 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059171851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059174889 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059177940 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059181049 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+western-refugees.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+success-son.gl.at.ply.gg:4093 => 127.0.0.1:4093 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720059184108 tunnel running, 2 tunnels registered
 
 
 TUNNELS
