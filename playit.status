@@ -1,315 +1,540 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 1 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720223222336 tunnel running, 1 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720225475392 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223225402 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225478427 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223228458 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225481467 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223231519 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225484498 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223234572 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225487538 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223237608 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225490600 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223240701 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225493672 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223243757 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225496794 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223246855 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225499854 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223249904 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225502992 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223252941 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225506073 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223255984 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225509175 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223259036 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225512239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223262083 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225515289 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223265150 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225518342 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223268218 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225521436 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223271259 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225524507 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223274311 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225527561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223277344 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225530629 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223280402 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225533664 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223283494 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225536765 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223286532 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225539796 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223289563 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225542831 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223292616 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225545904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223295715 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225548950 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223298764 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225552004 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223301818 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225555069 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223304875 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225558150 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223307939 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225561218 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223310982 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225564272 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223314030 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225567399 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223317117 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225570502 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223320208 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225573570 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223323247 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225576599 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223326317 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225579678 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223329394 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225582731 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223332443 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225585769 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223335499 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225588804 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223338585 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225591866 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223341655 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225594914 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223344696 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225597961 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223347747 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225601010 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223350800 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225604061 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223353834 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225607121 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223356867 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225610165 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223359904 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225613239 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223362948 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225616313 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223366060 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225619360 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223369115 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225622410 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223372155 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225625459 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223375204 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225628511 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223378237 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225631551 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223381284 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225634598 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223384331 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225637679 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223387384 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225640720 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223390422 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225643753 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223393455 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225646811 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223396505 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225649865 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223399539 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225652910 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223402612 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225655965 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223405671 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225659011 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223408767 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225662094 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-[2J8[0mplayit (v0.15.13): 1720223411817 tunnel running, 1 tunnels registered
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225665131 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225668161 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225671222 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225674265 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225677317 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225680393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225683437 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225686473 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225689575 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225692634 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225695677 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225698736 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225701851 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225704897 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225707976 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225711012 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225714057 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225717085 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225720125 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225723164 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225726221 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225729259 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225732315 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225735369 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225738420 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225741470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225744526 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720225747600 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+chapter-geek.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+rated-serves.gl.at.ply.gg:4343 => 127.0.0.1:4343 (proto: Udp, port count: 1)
