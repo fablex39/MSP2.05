@@ -1,604 +1,778 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720227455755 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.13): 1720227810276 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227458825 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227813326 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227461895 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227816359 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227464930 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227819439 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227467978 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227822478 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227471014 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227825538 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227474054 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227828658 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227477147 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227831756 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227480186 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227834821 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227483242 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227837905 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227486279 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227840993 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227489316 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227844053 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227492385 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227847140 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227495454 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227850232 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227498507 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227853278 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227501571 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227856311 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227504658 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227859390 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227507703 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227862464 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227510762 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227865510 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227513810 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227868577 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227516854 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227871641 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227519912 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227874686 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227522946 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227877740 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227525990 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227880797 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227529041 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227883871 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227532118 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227886948 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227535209 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227890033 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227538252 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227893088 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227541311 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227896133 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227544428 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227899181 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227547498 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227902283 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227550583 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227905393 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227553649 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227908451 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227556682 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227911513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227559727 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227914561 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227562765 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227917616 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227565846 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227920684 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227568986 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227923729 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227572050 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227926842 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227575109 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227929895 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227578171 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227932938 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227581219 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227935976 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227584314 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227939013 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227587379 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227942113 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227590435 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227945151 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227593494 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227948202 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227596585 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227951267 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227599641 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227954326 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227602734 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227957367 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227605778 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227960413 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227608848 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227963457 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227611882 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227966501 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227614960 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227969588 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227618058 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227972641 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227621113 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227975687 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227624208 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227978783 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227627298 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227981885 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227630492 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227984945 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227633609 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227988021 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227636767 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227991076 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227639876 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227994123 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227642926 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720227997229 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227645992 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228000280 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227649960 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228003339 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227653925 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228006374 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227656968 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228009424 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227660093 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228012522 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227663157 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228015581 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227666200 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228018641 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227669337 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228021708 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227672404 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228024743 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227675464 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228027800 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227678524 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228030838 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227681562 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228033873 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227684628 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228036927 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227687690 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228039991 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227690729 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228043058 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227693793 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228046115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227696879 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228049172 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227699923 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228052211 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227702966 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228055282 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227706029 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228058324 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227709123 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228061361 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227712215 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228064420 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227715251 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228067482 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227718322 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228070560 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227721356 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228073624 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227724437 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228076697 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227727480 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228079749 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227730540 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228082854 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227733611 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228085896 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227736659 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228088975 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227739725 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228092013 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227742789 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228095048 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227745859 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228098096 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227748892 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228101153 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227751927 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228104238 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227755035 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228107329 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227758092 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228110388 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227761151 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228113499 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.13): 1720227764208 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.13): 1720228116565 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228119631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228122685 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228125779 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228128831 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228131935 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228135075 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228138130 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228141189 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228144237 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228147357 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228150425 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228153470 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228156520 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228159573 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228162631 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228165713 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228168763 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228171854 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228174908 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228177965 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228181020 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228184056 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228187106 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228190187 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228193267 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228196330 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228199393 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228202487 tunnel running, 2 tunnels registered
+
+
+TUNNELS
+club-approximate.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
+detailed-true.gl.at.ply.gg:3570 => 127.0.0.1:3570 (proto: Udp, port count: 1)
+[2J8[0mplayit (v0.15.13): 1720228205524 tunnel running, 2 tunnels registered
 
 
 TUNNELS
