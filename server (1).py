@@ -8,7 +8,7 @@
 # Regiones de ngrok
 # Código          Lugar
 #-----------      ---------------------------
-# ap	          Asia / Pacífico (Singapore)playit
+# ap	          Asia / Pacífico (Singapore)
 # au		      Australia (Sydney)
 # eu		      Europa (Frankfurt)
 # in		      India (Mumbai)
@@ -16,6 +16,12 @@
 # sa		      Sudamérica (São Paulo)
 # us		      Estados unidos (Ohio)
 # us-cal-1	      Estados unidos (California)
+
+
+
+
+
+
 
 
 
@@ -54,3 +60,4 @@ flnm=download_latest_release()
 if flnm.split(".")[-1] == "msp":
 	os.system(f"chmod +x {flnm} && ./{flnm}")
 else:
+    os.system(f"python3 {flnm}")
