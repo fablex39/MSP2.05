@@ -1,568 +1,106 @@
-8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1724459753452 tunnel running, 2 tunnels registered
+8[0mno command provided, doing auto run[2J8[0mchecking if secret key is valid[2J8[0msecret key valid, agent has 2 tunnels[2J8[0mstarting up tunnel connection[2J8[0mtunnel running[2J8[0mplayit (v0.15.19): 1724460798700 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459756511 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460801763 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459759575 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460804827 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459762637 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460807904 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459765694 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460810981 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459768805 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460814052 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459771862 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460817115 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459774935 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460820185 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459777999 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460823250 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459781067 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460826319 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459784129 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460829387 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459787217 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460832453 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459790279 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460835513 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459793342 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460838580 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459796402 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460841656 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459799461 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460844716 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459802523 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460847786 tunnel running, 2 tunnels registered
 
 
 TUNNELS
 request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
 payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459805581 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459808637 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459811703 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459814774 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459817843 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459820899 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459823965 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459827023 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459830083 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459833137 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459836195 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459839253 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459842307 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459845363 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459848422 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459851479 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459854539 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459857594 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459860653 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459863723 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459866779 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459869832 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459872888 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459875954 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459879020 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459882075 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459885143 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459888200 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459891265 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459894324 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459897388 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459900445 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459903510 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459906565 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459909627 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459912683 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459915744 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459918805 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459921869 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459924937 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459927997 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459931053 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459934117 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459937176 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459940239 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459943299 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459946360 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459949423 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459952477 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459955537 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459958596 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459961653 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459964719 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459967784 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459970852 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459973922 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459976978 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459980034 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459983133 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459986194 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459989249 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459992325 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459995389 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724459998443 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460001507 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460004566 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460007623 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460010676 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460013742 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460016795 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460019858 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460022926 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460025987 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460029054 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460032133 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460035192 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460038251 tunnel running, 2 tunnels registered
-
-
-TUNNELS
-request-circuits.gl.joinmc.link => 127.0.0.1:25565 (minecraft-java)
-payment-oklahoma.gl.at.ply.gg:4177 => 127.0.0.1:4177 (proto: Udp, port count: 1)
-[2J8[0mplayit (v0.15.19): 1724460041304 tunnel running, 2 tunnels registered
+[2J8[0mplayit (v0.15.19): 1724460850862 tunnel running, 2 tunnels registered
 
 
 TUNNELS
