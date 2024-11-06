@@ -9,33 +9,33 @@
       "active": true,
       "alloc": {
         "data": {
-          "assigned_domain": "request-circuits.gl.joinmc.link",
-          "assigned_srv": "request-circuits.gl.joinmc.link",
+          "assigned_domain": "potential-warner.gl.joinmc.link",
+          "assigned_srv": "potential-warner.gl.joinmc.link",
           "assignment": {
             "type": "shared-ip"
           },
-          "id": "f3cfd3bc-e064-4562-b5ff-6b23e1102ddc",
-          "ip_hostname": "21.ip.gl.ply.gg",
+          "id": "d4bd3515-97af-46f6-b4a0-8e1c43044bf5",
+          "ip_hostname": "23.ip.gl.ply.gg",
           "ip_type": "both",
-          "port_end": 63851,
-          "port_start": 63850,
+          "port_end": 4203,
+          "port_start": 4202,
           "region": "global",
-          "static_ip4": "147.185.221.21",
-          "tunnel_ip": "2602:fbaf:0:1::15"
+          "static_ip4": "147.185.221.23",
+          "tunnel_ip": "2602:fbaf:0:1::17"
         },
         "status": "allocated"
       },
-      "created_at": "2024-08-11T23:19:28.913525Z",
+      "created_at": "2024-11-06T00:21:09.895473Z",
       "disabled_reason": null,
       "domain": null,
       "expire_notice": null,
       "firewall_id": null,
-      "id": "5d6bc20f-aa62-47cf-b4d4-13c1e486f5e9",
+      "id": "fad3b5ae-8bc9-4137-b1f5-9f013f502627",
       "name": "Minecraft Java",
       "origin": {
         "data": {
-          "agent_id": "786d918b-2131-4752-b6d7-662b13200add",
-          "agent_name": "from-key-5548",
+          "agent_id": "5c77d917-9448-4fd3-b612-3cf5d2507b25",
+          "agent_name": "from-key-d576",
           "local_ip": "127.0.0.1",
           "local_port": 25565
         },
@@ -43,62 +43,18 @@
       },
       "port_count": 1,
       "port_type": "tcp",
+      "proxy_protocol": null,
       "ratelimit": {
         "bytes_per_second": null,
         "packets_per_second": null
       },
       "region": "global",
       "tunnel_type": "minecraft-java"
-    },
-    {
-      "active": true,
-      "alloc": {
-        "data": {
-          "assigned_domain": "payment-oklahoma.gl.at.ply.gg",
-          "assigned_srv": null,
-          "assignment": {
-            "type": "shared-ip"
-          },
-          "id": "9ab313e0-d396-46aa-bc1c-980efbda7179",
-          "ip_hostname": "21.ip.gl.ply.gg",
-          "ip_type": "both",
-          "port_end": 4178,
-          "port_start": 4177,
-          "region": "global",
-          "static_ip4": "147.185.221.21",
-          "tunnel_ip": "2602:fbaf:0:1::15"
-        },
-        "status": "allocated"
-      },
-      "created_at": "2024-08-14T00:37:56.667779Z",
-      "disabled_reason": null,
-      "domain": null,
-      "expire_notice": null,
-      "firewall_id": null,
-      "id": "0acb4045-20cb-4a8e-9fd8-b15b3a9ab6d0",
-      "name": "voice chat",
-      "origin": {
-        "data": {
-          "agent_id": "786d918b-2131-4752-b6d7-662b13200add",
-          "agent_name": "from-key-5548",
-          "local_ip": "127.0.0.1",
-          "local_port": 4177
-        },
-        "type": "agent"
-      },
-      "port_count": 1,
-      "port_type": "udp",
-      "ratelimit": {
-        "bytes_per_second": null,
-        "packets_per_second": null
-      },
-      "region": "global",
-      "tunnel_type": null
     }
   ],
   "udp_alloc": {
     "allowed": 6,
-    "claimed": 1,
-    "desired": 1
+    "claimed": 0,
+    "desired": 0
   }
 }
